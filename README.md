@@ -4,7 +4,7 @@
 - :speech_balloon: Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
 - :mailbox: How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
 - :smile: Pronouns: He/Him
-<img src="https://github-readme-stats.vercel.app/api?username=FanciestW&show_icons=true&theme=dracula" alt="blestab" />
+<img src="https://github-readme-stats.vercel.app/api?username=FanciestW&show_icons=true&custom_title=FanciestW%27s%20GitHub%20Stats&theme=dracula&include_all_commits=true&cache_seconds=86400" alt="FanciestW Stats" />
 <!--
 **FanciestW/FanciestW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
