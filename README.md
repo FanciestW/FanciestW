@@ -1,9 +1,9 @@
 ### :wave: Hi there I'm William (@FanciestW)
-- 🔭 I’m currently working on [Advent of Code 2020](https://adventofcode.com/)
-- 🌱 I’m currently learning Gatsby.js
-- 💬 Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
-- 📫 How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
-- 😄 Pronouns: He/Him
+- :telescope: I’m currently working on [Advent of Code 2020](https://adventofcode.com/)
+- :seedling: I’m currently learning Gatsby.js
+- :speech_balloon: Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
+- :mailbox: How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
+- :smile: Pronouns: He/Him
 <img src="https://komarev.com/ghpvc/?username=FanciestW" alt="FanciestW Profile Views Counter" />
 <!--
 **FanciestW/FanciestW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
