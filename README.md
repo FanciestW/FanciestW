@@ -1,4 +1,5 @@
 ### :wave: Hi there I'm William (@FanciestW)
+- 🔭 I’m currently working on [Advent of Code 2020](https://adventofcode.com/)
 - 🌱 I’m currently learning Gatsby.js
 - 💬 Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
 - 📫 How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
