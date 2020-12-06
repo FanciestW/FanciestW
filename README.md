@@ -1,8 +1,9 @@
-### Hi there I'm William (@FanciestW) 👋
+### :wave: Hi there I'm William (@FanciestW)
 - 🌱 I’m currently learning Gatsby.js
 - 💬 Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
 - 📫 How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
 - 😄 Pronouns: He/Him
+<img src="https://komarev.com/ghpvc/?username=FanciestW" alt="FanciestW Profile Views Counter" />
 <!--
 **FanciestW/FanciestW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
