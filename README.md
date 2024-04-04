@@ -1,6 +1,6 @@
 ### :wave: Hi there I'm William (@FanciestW) <img src="https://komarev.com/ghpvc/?username=FanciestW" alt="FanciestW Profile Views Counter" />
-- :telescope: I’m currently working on [HospitalRun](https://github.com/HospitalRun)
-- :seedling: I’m currently learning Gatsby.js and Go(lang)
+<!-- - :telescope: I’m currently working on [HospitalRun](https://github.com/HospitalRun) -->
+- :seedling: I’m currently learning Angular and Go(lang)
 - :speech_balloon: Ask me about mechanical keyboards, FPV drones, building computers, and gaming :video_game:
 - :mailbox: How to reach me: [wlin26@yahoo.com](mailto:wlin26@yahoo.com)
 - :smile: Pronouns: He/Him
